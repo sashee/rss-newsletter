@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "gray-matter": "^4.0.2",
-    "inline-css": "^2.5.1",
+    "inline-css": "^4.0.1",
     "moment": "^2.24.0",
     "rss": "^1.2.2"
   }
